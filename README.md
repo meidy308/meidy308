@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is @meidy308
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm @meidy308
 =================================================================================================================================
 
-A passionate learner from Indonesia
------------------------------------
-
-Trying to learn to be a Software Engineer
+A passionate learner trying to learn to become a Software Engineer
 
 * 🌍  I'm based in Indonesia
 * 🧠  I'm learning Docker and Kubernetes
